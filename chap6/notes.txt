@@ -1,0 +1,13 @@
+Parameters that will be tuned for better repsonses
+
+see slide 8 - inner loop
+omega_phi
+zeta_phi
+
+see slide 13 - outer loop
+W_chi > 1
+zeta_chi
+
+see slide 15
+tau_r > 0.5
+kr

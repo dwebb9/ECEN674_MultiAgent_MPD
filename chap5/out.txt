@@ -1,0 +1,6 @@
+steady state [[0.]
+ [0.]
+ [0.]]
+steady state [[0.]
+ [0.]
+ [0.]]
